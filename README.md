@@ -112,3 +112,5 @@ if __name__ == '__main__':
   load(raw_capability_df, 'loaded__electricity_capability.parquet')
   load(cleaned_sales_df, 'loaded__electricity_sales.csv')
 ```
+---
+*© 2026 Ryan Tang.*
